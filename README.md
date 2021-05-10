@@ -1,7 +1,7 @@
-##Grubiorz-Linux
+# Grubiorz-Linux
 Made for Ubuntu Linux
 
-##Installation
+## Installation
 
 For installation please paste below command to console in your home directory:
 
