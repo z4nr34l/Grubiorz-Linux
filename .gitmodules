@@ -1,3 +1,6 @@
 [submodule "Swar-Chia-Plot-Manager"]
 	path = Swar-Chia-Plot-Manager
 	url = https://github.com/swar/Swar-Chia-Plot-Manager.git
+[submodule "chia-blockchain"]
+	path = chia-blockchain
+	url = https://github.com/Chia-Network/chia-blockchain.git
